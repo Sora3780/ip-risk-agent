@@ -1,0 +1,25 @@
+# 실행에 필요한 패키지
+#   설치:  pip install -r requirements.txt
+
+# 검사 서버
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.7
+
+# 작업공간 변경 감지
+watchdog>=4.0
+
+# 외부 조회 (deps.dev · PyPI · KIPRIS)
+requests>=2.32
+
+# Gemini (설명 생성 · 특허 검색어 · 유사도 비교)
+google-genai>=1.0
+
+# RAG 인덱스 검색
+numpy>=1.26
+
+# Google Drive 연동 (Drive 를 쓰지 않으면 없어도 로컬 검사는 동작한다)
+google-api-python-client>=2.130
+google-auth>=2.30
+
+# GUI 는 표준 라이브러리 tkinter 를 쓴다. 별도 설치가 필요 없다.

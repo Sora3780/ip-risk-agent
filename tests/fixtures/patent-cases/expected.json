@@ -1,0 +1,64 @@
+{
+  "_comment": "특허 검토 정답 세트. 실제 등록특허를 기준으로 유사도를 3단계로 벌려 만들었다.",
+  "reference_patents": [
+    {
+      "application_number": "1020110101359",
+      "applicant": "목포대 산학협력단",
+      "core": "SMV 디코더에서 LSF->LPC 변환 시 나오는 파라미터로 특징벡터를 만들고 GMM 우도로 보이스피싱 판별. 변별적 가중치 학습으로 EER/ROC 개선"
+    },
+    {
+      "application_number": "1020080080388",
+      "applicant": "인하대 산학협력단",
+      "core": "SMV 디코더 + 특징벡터 구성부 + GMM 으로 보이스피싱 검출"
+    },
+    {
+      "application_number": "1020090057532",
+      "applicant": "개인",
+      "core": "발신번호 DB 대조 + 스위칭 회로로 스팸/보이스피싱 통화 차단"
+    }
+  ],
+
+  "cases": [
+    {
+      "id": "P-01",
+      "dir": "1-blatant",
+      "label": "빼박 표절",
+      "product": "VoiceGuard",
+      "designed_overlap": "1020110101359 의 기술 구성을 그대로 서술했다. SMV 디코더, LSF->LPC 파라미터, 별도 특징추출 없음, GMM 우도, 변별적 가중치 학습, EER/ROC 목표까지 전부 일치한다.",
+      "expect_similarity": ["HIGH"],
+      "expect_hits_include": ["1020110101359"],
+      "expect_needs_expert_review": true
+    },
+    {
+      "id": "P-02",
+      "dir": "2-partial",
+      "label": "부분 표절",
+      "product": "CallShield",
+      "designed_overlap": "코덱 파라미터 기반 신호처리 판별은 선행특허와 겹친다. 그러나 위험도 단계화, 자동 통화 종료, 보호자 푸시 연동, 온디바이스 처리는 선행특허 초록에 없다.",
+      "expect_similarity": ["HIGH", "MEDIUM"],
+      "expect_hits_include": [],
+      "expect_needs_expert_review": true,
+      "note": "겹침과 차이가 모두 명확히 서술되어야 통과. difference_ko 가 비어 있으면 판정이 부실한 것"
+    },
+    {
+      "id": "P-03",
+      "dir": "3-ambiguous",
+      "label": "애매한 표절",
+      "product": "RingPattern",
+      "designed_overlap": "해결하려는 문제(보이스피싱)만 같고 기술 경로가 완전히 다르다. 음성을 전혀 분석하지 않고 CDR 메타데이터 그래프만 본다. 검색어는 겹쳐서 후보에는 오르지만 유사도는 낮아야 한다.",
+      "expect_similarity": ["MEDIUM", "LOW", "UNRELATED"],
+      "expect_hits_include": [],
+      "expect_not_similarity": ["HIGH"],
+      "note": "여기서 HIGH 가 나오면 '같은 문제 = 같은 기술'로 착각한 것. 오탐 지표"
+    }
+  ],
+
+  "grading": {
+    "핵심": "P-01 은 HIGH, P-03 은 HIGH 가 아니어야 한다. 이 둘이 갈리면 판정이 작동하는 것이다.",
+    "실패 신호": [
+      "P-01 이 MEDIUM 이하 -> 명백한 중복을 놓침",
+      "P-03 이 HIGH -> 도메인만 같아도 유사하다고 판단하는 오탐",
+      "grounded=false 가 다수 -> 초록만으로 판단이 안 되는 상태"
+    ]
+  }
+}

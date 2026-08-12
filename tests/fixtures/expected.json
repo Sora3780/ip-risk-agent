@@ -1,0 +1,64 @@
+{
+  "workspace": "sample-workspace",
+  "baseline_license": "PROPRIETARY",
+  "_comment": "정답 세트. 탐지기 결과와 대조해 재현율/정밀도를 계산한다 (SECTION 05 성공 기준).",
+
+  "must_detect": [
+    {
+      "id": "D-01",
+      "kind": "dependency",
+      "locator": "requirements.txt:PyQt5",
+      "license": "GPL-3.0",
+      "tier": "FORBIDDEN",
+      "why": "비공개 상용 배포 시 전체 소스 공개 의무 발생"
+    },
+    {
+      "id": "D-02",
+      "kind": "dependency",
+      "locator": "requirements.txt:mysqlclient",
+      "license": "GPL-2.0-or-later",
+      "tier": "FORBIDDEN",
+      "why": "GPLv2. opt 플래그로는 잡히지 않는 케이스 - 회귀 테스트 겸용"
+    },
+    {
+      "id": "D-03",
+      "kind": "dependency",
+      "locator": "requirements.txt:paramiko",
+      "license": "LGPL-2.1",
+      "tier": "RESTRICTED",
+      "why": "동적 링크 조건 준수 필요. 정적 링크/수정 시 공개 의무"
+    },
+    {
+      "id": "D-04",
+      "kind": "file_header",
+      "locator": "src/vendor/gpl_helper.py",
+      "license": "GPL-3.0-or-later",
+      "tier": "FORBIDDEN",
+      "why": "SPDX-License-Identifier 헤더로 명시된 GPL 코드가 소스트리에 직접 포함됨"
+    },
+    {
+      "id": "D-05",
+      "kind": "unknown_provenance",
+      "locator": "src/vendor/mystery_util.py",
+      "license": null,
+      "tier": "REVIEW",
+      "why": "vendor 디렉터리에 있으나 라이선스 헤더·출처 표기 없음"
+    },
+    {
+      "id": "D-06",
+      "kind": "doc_mismatch",
+      "locator": "README.md",
+      "license": "MIT",
+      "tier": "FORBIDDEN",
+      "why": "문서는 'MIT이며 소스 공개 의무 없음'이라 주장하나 실제로는 GPL 의존성 포함. 기존 SCA가 보지 않는 영역"
+    }
+  ],
+
+  "must_not_flag": [
+    { "locator": "requirements.txt:requests", "license": "Apache-2.0", "tier": "NOTICE" },
+    { "locator": "requirements.txt:numpy", "license": "0BSD AND BSD-3-Clause AND CC0-1.0 AND MIT AND Zlib", "tier": "NOTICE", "note": "SPDX 복합 표현식. 파서가 AND/OR를 처리하는지 확인" },
+    { "locator": "requirements.txt:chardet", "license": "0BSD", "tier": "NOTICE" },
+    { "locator": "src/utils.py", "license": "MIT", "tier": "NOTICE", "note": "자체 코드. SPDX 헤더 정상" },
+    { "locator": "src/app.py", "license": null, "tier": "NOTICE", "note": "헤더 없는 자체 코드. 출처불명으로 오탐하면 안 됨" }
+  ]
+}

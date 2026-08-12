@@ -1,0 +1,14 @@
+[project]
+name = "nova-dashboard"
+version = "0.4.1"
+description = "사내 운영지표 대시보드"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32",
+    "numpy>=2.1",
+    "PyQt5>=5.15",
+]
+
+[project.optional-dependencies]
+deploy = ["paramiko>=3.5"]

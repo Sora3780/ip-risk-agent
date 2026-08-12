@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "1002-0",
+    "lid": "1002",
+    "name": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Apache License 2.0 / 주요특징] 라이센서에게 Contribution 하는 경우 Apache 라이선스를 따름"
+  },
+  {
+    "id": "1002-1",
+    "lid": "1002",
+    "name": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Apache License 2.0 / 배포시의무사항] 수취인에게 라이선스 사본 제공 수정된 파일에 대해 수정사항을 표시한 안내문구 첨부 저작권, 특허, 상표, attribution에 대한 고지사항을 소스코드 또는 \"NOTICE\" 파일 등에 포함 최초개발자 등을 위해 보증을 면제하고, 책임을 제한"
+  },
+  {
+    "id": "1003-2",
+    "lid": "1003",
+    "name": "New and Simplified BSD licenses",
+    "spdx": "BSD-3-Clause",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[New and Simplified BSD licenses / 배포시의무사항] 재배포시 저작권 표시, 준수 조건 및 보증부인에 대한 고지사항을 소스코드내 또는 문서 및 기타자료에 포함 제품에 대한 보증이나 홍보에 최초개발자나 기여자의 이름을 사용하지 못함"
+  },
+  {
+    "id": "1004-3",
+    "lid": "1004",
+    "name": "GNU General Public License (GPLv2)",
+    "spdx": "GPL-2.0-only",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[GNU General Public License (GPLv2) / 주요특징] 소스코드는 실행물에 포함된 모든 모듈들의 소스 코드와 이와 관련된 인터페이스 정의 파일 전체, 그리고 실행물의 컴파일과 설치를 제어하는데 사용된 스크립트 전부를 의미 다만, 실행물이 실행되는 운영체제의 주요 부분(컴파일러, 커널 등)과 함께 (소스 코드나 바이너리의 형태로) 일반적으로 배포되는 구성요소들은, 그 구성요소 자체가 실행물에 수반되지 않는 한 배포되는 소스 코드에 포함되지 않아도 무방 서브라이선스를 허용하지 않음. 다만 제6조에 의해 수취인은 자동적으로 라이선스를 취득"
+  },
+  {
+    "id": "1004-4",
+    "lid": "1004",
+    "name": "GNU General Public License (GPLv2)",
+    "spdx": "GPL-2.0-only",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[GNU General Public License (GPLv2) / 주요특징] 법원의 판결, 특허침해 등에 의해 라이선스 조건을 준수할 수 없는 경우, GPL에 의한 배포 불가능(제7조)"
+  },
+  {
+    "id": "1004-5",
+    "lid": "1004",
+    "name": "GNU General Public License (GPLv2)",
+    "spdx": "GPL-2.0-only",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[GNU General Public License (GPLv2) / 배포시의무사항] 각 복제본에 적절한 저작권 고지와 보증책임이 없음을 명시 GPL 라이선스를 언급하는 고지사항과 보증책임 관련 고지사항을 원본 그대로 유지 프로그램을 양도 받는 모든 이들에게 프로그램과 함께 GPL 라이선스 사본 제공 파일 수정의 경우 수정사실과 날짜를 파일에 명기 원본저작물과 파생저작물을 GPL 2.0에 의해 배포 원본저작물 및 파생저작물에 대한 소스코드를 제공하거나, 요청시 제공하겠다는 약정서 제공"
+  },
+  {
+    "id": "1005-6",
+    "lid": "1005",
+    "name": "GNU Library or Lesser General Public License (LGPLv2)",
+    "spdx": "LGPL-2.1-only",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[GNU Library or Lesser General Public License (LGPLv2) / 주요특징] LGPL 라이브러리를 이용한 응용프로그램의 경우 소스코드 제공없이 배포가능(제6조) 결합 라이브러리의 작성 허용"
+  },
+  {
+    "id": "1005-7",
+    "lid": "1005",
+    "name": "GNU Library or Lesser General Public License (LGPLv2)",
+    "spdx": "LGPL-2.1-only",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[GNU Library or Lesser General Public License (LGPLv2) / 배포시의무사항] 각 복제본에 적절한 저작권 고지와 보증책임이 없음을 명시 LGPL 2.1 라이선스를 언급하는 고지사항과 보증책임 관련 고지사항을 원본 그대로 유지 프로그램을 양도 받는 모든 이들에게 프로그램과 함께 LGPL 라이선스 사본 제공 라이브러리 형태로의 수정을 허용하며, 수정사실과 날짜를 파일에 명기 원본저작물과 파생저작물을 LGPL 또는 GPL에 의해 배포 원본저작물 및 파생저작물에 대한 소스코드를 제공하거나, 요청시 제공하겠다는 약정서 제공 응용프로그램을 배포할 경우, LGPL 라이브러리를 사용하고 있다는 사실을 명시"
+  },
+  {
+    "id": "1005-8",
+    "lid": "1005",
+    "name": "GNU Library or Lesser General Public License (LGPLv2)",
+    "spdx": "LGPL-2.1-only",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[GNU Library or Lesser General Public License (LGPLv2) / 배포시의무사항] 사용자가 라이브러리를 수정해도 응용프로그램을 사용할 수 있도록 (예를 들어 오브젝트코드를 제공하거나 공유라이브러리 방식 등을 이용하여) 허용"
+  },
+  {
+    "id": "1006-9",
+    "lid": "1006",
+    "name": "MIT License",
+    "spdx": "MIT",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[MIT License / 배포시의무사항] 저작권 안내문구, MIT 라이선스 문구가 모든 복제본에 포함"
+  },
+  {
+    "id": "1007-10",
+    "lid": "1007",
+    "name": "Mozilla Public License 1.1 (MPL)",
+    "spdx": "MPL-1.1",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Mozilla Public License 1.1 (MPL) / 주요특징] \"상업적 사용\"이란 라이선스 적용 코드를 배포 또는 기타 다른 형태로 제3자가 이용할 수 있게 만드는 것을 의미(제1조) 최초개발자의 부여사항과 기여자의 부여사항을 분리 기여자의 독창적인 창작이며, 관련 권한을 가지고 있다는 내용의 선언(제3조4항) 최초 개발자의 경우 적용코드의 일부에 대해 다중 라이선스 설정 가능(제13조) 캘리포니아 주법을 준거법"
+  },
+  {
+    "id": "1007-11",
+    "lid": "1007",
+    "name": "Mozilla Public License 1.1 (MPL)",
+    "spdx": "MPL-1.1",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Mozilla Public License 1.1 (MPL) / 배포시의무사항] 원본 및 수정코드를 MPL에 의해 배포 배포시 MPL 라이선스 사본 첨부 수정코드에 대한 소스코드를 전자배포방식 등을 통해 제공 최초개발자의 코드로부터 파생되었다는 사실, 수정사항 및 날짜 등을 포함한 파일(Exhibit A)을 소스코드의 각 파일에 포함 제3자의 지식재산권에 의한 라이선스가 필요하다는 사실을 알고 있는 경우 “LEGAL\" 파일에 관련 내용 포함"
+  },
+  {
+    "id": "1008-12",
+    "lid": "1008",
+    "name": "Common Development and Distribution License",
+    "spdx": "CDDL-1.0",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Common Development and Distribution License / 주요특징] 최초개발자의 부여사항과 기여자의 부여사항을 분리 승소당사자에 대해 변호사 수임료 청구권 인정(제9조) 기여자의 독창적인 창작이며, 관련 권한을 가지고 있다는 내용의 선언(제3조2항) 준거법 선택가능"
+  },
+  {
+    "id": "1008-13",
+    "lid": "1008",
+    "name": "Common Development and Distribution License",
+    "spdx": "CDDL-1.0",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Common Development and Distribution License / 배포시의무사항] 원본 및 수정코드를 CDDL에 의해 배포 배포시 CDDL 라이선스 사본 첨부 수정코드에 대한 소스코드를 합리적인 방식으로 제공 저작권 등 권리관련 사항, 라이선스관련 사항 등의 고지사항을 제거하거나 변경할 수 없음 수정한 경우, 수정코드의 기여자임을 밝히는 고지를 포함"
+  },
+  {
+    "id": "1009-14",
+    "lid": "1009",
+    "name": "Common Public License 1.0",
+    "spdx": "CPL-1.0",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Common Public License 1.0 / 주요특징] 라이선스 계약서의 관리주체를 선언 뉴욕주 법률과 미국 지적재산권법을 준거법"
+  },
+  {
+    "id": "1009-15",
+    "lid": "1009",
+    "name": "Common Public License 1.0",
+    "spdx": "CPL-1.0",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Common Public License 1.0 / 배포시의무사항] 오브젝트코드로 배포하는 경우 CPL 조건 준수, 보증부인, 책임의 배제, 소스코드의 확보방법 고지 소스코드로 배포하는 경우 CPL 라이선스 적용 CPL 라이선스 사본 포함 각 프로그램의 저작권 고지사항을 제거하거나 변경하는 것을 금지 각 기여물의 창작자를 식별할 수 있도록 신분을 밝힐 것 상업적 배포의 경우 기여자에게 책임이 발생하지 않도록 조치"
+  },
+  {
+    "id": "1010-16",
+    "lid": "1010",
+    "name": "Eclipse Public License",
+    "spdx": "EPL-1.0",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Eclipse Public License / 주요특징] 라이선스 계약서의 관리주체를 선언 뉴욕주의 법률과 미국 지적재산권법을 준거법 null;"
+  },
+  {
+    "id": "1010-17",
+    "lid": "1010",
+    "name": "Eclipse Public License",
+    "spdx": "EPL-1.0",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Eclipse Public License / 배포시의무사항] 오브젝트코드로 배포하는 경우 EPL 조건 준수, 보증부인, 책임의 배제, 소스코드의 확보방법 고지 소스코드로 배포하는 경우 EPL 라이선스 적용 EPL 라이선스 사본 포함 각 프로그램의 저작권 고지사항을 제거하거나 변경하는 것을 금지 각 기여물의 창작자를 식별할 수 있도록 신분을 밝힐 것 상업적 배포의 경우 기여자에게 책임이 발생하지 않도록 조치"
+  },
+  {
+    "id": "1012-18",
+    "lid": "1012",
+    "name": "Educational Community License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Educational Community License / 배포시의무사항] 재배포된 저작물이나 파생 저작물의 사용자들이 볼 수 있는 위치에 교육 공동체 라이선스의 전문(全文)을 삽입 기존에 있던 지식재산권 부인, 고지 및 안내문구, 혹은 규정과 조건들을 포함 원저작물에 대한 변형이나 수정 여부 및 그것이 이루어진 날에 대한 고지를 포함 원저작물에 대한 수정본들은 저작권자의 원저작물과 혼동되지 않는 방식으로 배포"
+  },
+  {
+    "id": "1013-19",
+    "lid": "1013",
+    "name": "NASA Open Source Agreement 1.3",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[NASA Open Source Agreement 1.3 / 주요특징] 해당 소프트웨어의 사용 상황을 추적하고 정확한 기록을 유지하기 위한 노력의 일환으로, 수취인은 해당 소프트웨어를 받는 즉시 제5조 F항에 나열된 연락처를 통해 정부 기관에 이메일을 송부하거나 관련 웹사이트에 등록 미국 연방법을 준거법"
+  },
+  {
+    "id": "1013-20",
+    "lid": "1013",
+    "name": "NASA Open Source Agreement 1.3",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[NASA Open Source Agreement 1.3 / 배포시의무사항] 본 계약서의 사본을 해당 소프트웨어의 각 복제본에 포함 소스 코드를 자유롭게 사용할 수 있도록 제공해야 하며, 소스 코드를 구할 수 있는 방법을 해당 소프트웨어 설명서의 모든 사본에 포함 저작권 표시가 해당 소프트웨어에 명시적으로 나타나도록 보장 수정시 수정내용과 날짜를 표시하고, 기여자로서의 신분을 밝힘 수취인은 해당 소프트웨어를 받는 즉시 제5조 F항에 나열된 연락처를 통해 정부 기관에 이메일을 송부하거나 관련 웹사이트에 등록 수정본 배포시 관련 웹사이트에 수정본 입수방법을 고지"
+  },
+  {
+    "id": "1016-21",
+    "lid": "1016",
+    "name": "Adaptive Public License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Adaptive Public License / 주요특징] \"독립 모듈\"을 정의한 후, 이러한 독립모듈은 별도의 라이선스에 따라 배포가능 최초기여자와 후속기여자의 구분 특허라이선스에 대해 Exhibit에 선택권 부여 내부적으로 사용되는 수정본은 의무사항이 적용되지 않음을 명확히 함 수정사항 등을 기록한 보충파일 최초 기여자에 대한 제한적 공로인정(제3조10항) Exhibit A에 재판관할지 및 준거법 지정 Exhibit A PART 4에서 ‘제3자'의 범위를 선택가능"
+  },
+  {
+    "id": "1016-22",
+    "lid": "1016",
+    "name": "Adaptive Public License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Adaptive Public License / 배포시의무사항] Exhibit 및 보충파일을 포함한 라이선스 사본을 복제본과 함께 제공 전자배포방식 등을 통해 소스코드 제공 후속기여자는 전자배포방식을 통해 12개월 이상 자신의 저작물을 제공 수정시 수정내용 등을 보충파일이 요구하는 형식으로 기재하여 배포"
+  },
+  {
+    "id": "1017-23",
+    "lid": "1017",
+    "name": "Artistic License 2.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Artistic License 2.0 / 주요특징] 표준버전과 수정버전을 구분하여 의무사항 규정 ‘패키지’에 대한 개념정의, 이용방법 규정"
+  },
+  {
+    "id": "1017-24",
+    "lid": "1017",
+    "name": "Artistic License 2.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Artistic License 2.0 / 배포시의무사항] 표준버전의 소스코드 배포시 원본의 저작권 고지 사항과 관련 부인 사항을 반드시 전부 복제 수정버전의 소스코드 배포시 표준버전과의 차이점을 명시하고, 비표준적 특성들과 실행파일 및 모듈들이 포함되어야 하며, 다음 중 하나의 조건을 만족시켜야 함 컴파일 형식의 배포시 표준버전의 소스를 구할 수 있는 방법 안내"
+  },
+  {
+    "id": "1018-25",
+    "lid": "1018",
+    "name": "Open Software License",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Open Software License / 주요특징] 배포의 범위에 네트워크서비스도 포함(external deployment)(제5조) 출처의 보증(제7조) 승소당사자에 대해 변호사 수임료 청구권 인정(제12조) 라이센서 거주지를 관할법원으로 하며, 해당 관할법원의 법률을 준거법"
+  },
+  {
+    "id": "1018-26",
+    "lid": "1018",
+    "name": "Open Software License",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Open Software License / 배포시의무사항] 저작권, 특허권, 상표권 등에 대한 고지사항, 라이선스 설정에 대한 고지사항, attribution 고지사항 유지 원본저작물 또는 파생저작물 배포시 OSL에 의해 배포 배포시 파생저작물에 대한 소스코드 제공"
+  },
+  {
+    "id": "1019-27",
+    "lid": "1019",
+    "name": "The Qt Public License (QPL)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[The Qt Public License (QPL) / 주요특징] 최초개발자에게 수정본에 대한 라이선스 부여(제3조) 최초개발자 요구시 소프트웨어 아이템 복제본 제공(제6조) 노르웨이법을 준거법, 오슬로시 법원을 관할법원"
+  },
+  {
+    "id": "1019-28",
+    "lid": "1019",
+    "name": "The Qt Public License (QPL)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[The Qt Public License (QPL) / 배포시의무사항] 라이선스 사본 포함 수정사항을 포함한 소스코드 제공 QPL의해 라이선스 제공 다른 사람들을 위해 보증을 면제하고 책임을 제한"
+  },
+  {
+    "id": "1020-29",
+    "lid": "1020",
+    "name": "zlib/libpng License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[zlib/libpng License / 배포시의무사항] acknowledge의 내용을 제품 문서에 표시하도록 권장하나 의무사항은 아님 변경된 소스버전 표시 라이선스 변경 및 제거 금지"
+  },
+  {
+    "id": "1022-30",
+    "lid": "1022",
+    "name": "Academic Free License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Academic Free License / 주요특징] 배포의 범위에 네트워크서비스도 포함(external deployment)(제5조) 출처의 보증(제7조) 승소당사자에 대해 변호사 수임료 청구권 인정(제12조) 라이센서 거주지를 관할법원으로 하며, 해당 관할법원의 법률을 준거법"
+  },
+  {
+    "id": "1022-31",
+    "lid": "1022",
+    "name": "Academic Free License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Academic Free License / 배포시의무사항] 저작권, 특허권, 상표권 등에 대한 고지사항, 라이선스 설정에 대한 고지사항, attribution 고지사항 유지 라이선스 사본 첨부"
+  },
+  {
+    "id": "1023-32",
+    "lid": "1023",
+    "name": "Attribution Assurance Licenses",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Attribution Assurance Licenses / 주요특징] GPG 사인을 포함하여 배포하도록 요구"
+  },
+  {
+    "id": "1023-33",
+    "lid": "1023",
+    "name": "Attribution Assurance Licenses",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Attribution Assurance Licenses / 배포시의무사항] 소스코드배포시 GPG 사인이 된 동 텍스트를 입증할 수 있는 형태로 명시적으로 표시 바이너리배포시 GPG 사인 텍스트를 첨부하며, 실행결과물에 저작자의 귀속사항을 디스플레이하도록 함 라이선스 사본 첨부"
+  },
+  {
+    "id": "1024-34",
+    "lid": "1024",
+    "name": "Eiffel Forum License V2.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "개요",
+    "text": "[Eiffel Forum License V2.0 / 개요] 주요 특징"
+  },
+  {
+    "id": "1024-35",
+    "lid": "1024",
+    "name": "Eiffel Forum License V2.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Eiffel Forum License V2.0 / 배포시의무사항] 저작권표시 유지 라이선스 사본 포함"
+  },
+  {
+    "id": "1025-36",
+    "lid": "1025",
+    "name": "Fair License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Fair License / 배포시의무사항] 해당 도구(instrument)를 저작물 내에 존속"
+  },
+  {
+    "id": "1026-37",
+    "lid": "1026",
+    "name": "Historical Permission Notice and Disclaimer",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Historical Permission Notice and Disclaimer / 배포시의무사항] 저작권표시 라이선스 내용 포함"
+  },
+  {
+    "id": "1027-38",
+    "lid": "1027",
+    "name": "Lucent Public License Version 1.02",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Lucent Public License Version 1.02 / 주요특징] 뉴욕주법률 및 미국 지적재산권법을 준거법"
+  },
+  {
+    "id": "1027-39",
+    "lid": "1027",
+    "name": "Lucent Public License Version 1.02",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Lucent Public License Version 1.02 / 배포시의무사항] 라이선스 사본 포함 저작권 표시"
+  },
+  {
+    "id": "1028-40",
+    "lid": "1028",
+    "name": "University of Illinois/NCSA Open Source License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[University of Illinois/NCSA Open Source License / 배포시의무사항] 저작권 표시 부인사항 포함"
+  },
+  {
+    "id": "1029-41",
+    "lid": "1029",
+    "name": "X.Net License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[X.Net License / 주요특징] 캘리포니아주 법률과 미국 법을 준거법"
+  },
+  {
+    "id": "1029-42",
+    "lid": "1029",
+    "name": "X.Net License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[X.Net License / 배포시의무사항] 저작권 표시 라이선스 내용 포함"
+  },
+  {
+    "id": "1031-43",
+    "lid": "1031",
+    "name": "Apple Public Source License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Apple Public Source License / 주요특징] \"외부유포\"의 개념을 정의하고, 전자적 통신수단을 통해 내용을 전달하는 것을 포함시킴 애플에 대해 특허소송제기시 라이선스 종료 캘리포니아주 법률 및 미국법률을 준거법"
+  },
+  {
+    "id": "1031-44",
+    "lid": "1031",
+    "name": "Apple Public Source License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Apple Public Source License / 배포시의무사항] 저작권사항 유지 라이선스 관련 고지사항 유지 라이선스 사본 포함 Exhibit A 고지사항 포함 수정코드에 대한 소스코드 제공 실행파일배포시 소스코드를 구할 수 있는 방법 제공"
+  },
+  {
+    "id": "1032-45",
+    "lid": "1032",
+    "name": "Computer Associates Trusted Open Source License 1.1",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Computer Associates Trusted Open Source License 1.1 / 주요특징] 프로그램의 배포에 대한 대가로 일회성의 선불요금만 청구할 수 있음 제3자의 지적재산권이 요구되는 경우 관련 내용을 ../IP_ISSUES 텍스트 파일에 포함 뉴욕주 법률을 준거법"
+  },
+  {
+    "id": "1032-46",
+    "lid": "1032",
+    "name": "Computer Associates Trusted Open Source License 1.1",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Computer Associates Trusted Open Source License 1.1 / 배포시의무사항] 오브젝트코드로 배포하는 경우 소스코드가 제공된다는 사실과 입수방법을 고지 라이선스 사본 포함 수정사항에 대한 내용 및 날짜 기록 제3자의 지적재산권이 요구되는 경우 관련 내용을 ../IP_ISSUES 텍스트 파일에 포함"
+  },
+  {
+    "id": "1033-47",
+    "lid": "1033",
+    "name": "CUA Office Public License Version 1.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[CUA Office Public License Version 1.0 / 주요특징] 제3자의 지적재산권 필요시 \"LEGAL\" 파일에 관련 내용 기록 NPL 또는 Exhibit A에 포함된 다른 라이선스로 배포가능(제13조)"
+  },
+  {
+    "id": "1033-48",
+    "lid": "1033",
+    "name": "CUA Office Public License Version 1.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[CUA Office Public License Version 1.0 / 배포시의무사항] 라이선스 사본 포함 소스코드 제공 수정시 수정사항과 날짜를 기록 \"LEGAL\" 파일 포함 \"Exhibit A\"의 고지사항 유지"
+  },
+  {
+    "id": "1034-49",
+    "lid": "1034",
+    "name": "EU DataGrid Software License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[EU DataGrid Software License / 배포시의무사항] 저작권 고지, 라이선스 진술, 관련 조건을 포함 “이 제품은 EU DataGrid(http://www.eu-datagrid.org/)에 의해 개발된 소프트웨어를 포함한다.”는 내용 표시"
+  },
+  {
+    "id": "1035-50",
+    "lid": "1035",
+    "name": "Entessa Public License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Entessa Public License / 배포시의무사항] 저작권 포시, 라이선스 조건 및 부인사항을 포함 “이 제품은 openSEAL(http://www.openseal.org/)\"에 의해 개발된 오픈소스소프트웨어를 포함한다.”는 승인문구 표시"
+  },
+  {
+    "id": "1036-51",
+    "lid": "1036",
+    "name": "Frameworx License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Frameworx License / 주요특징] ‘다운스트림 배포’의 개념을 정의하고, ‘원격제공(remote availability of software)’을 포함함 ‘부가가치 서비스’를 의 개념을 정의하고, 부가가치서비스의 제공조건을 제시함"
+  },
+  {
+    "id": "1036-52",
+    "lid": "1036",
+    "name": "Frameworx License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Frameworx License / 배포시의무사항] 소스코드의 제공 “이 파일은 Frameworx 오프 라이선스 1.0에 따라 제공된 소프트웨어를 포함합니다. 이 파일의 사용과 배포는 라이선스에 제시된 조건들에 의해 구속됩니다.”라는 설명문 포함 저작권 표시와 저자 명, 보증 부인 사항(아래의 제6조에 제시된 것을 포함), 설명문, 문서, 주석 및 코멘트를 모두 포함 frameworx_community_invitation.html 파일을 원본 그대로 포함 the_frameworx_license.txt 파일을 원본 그대로 포함"
+  },
+  {
+    "id": "1036-53",
+    "lid": "1036",
+    "name": "Frameworx License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Frameworx License / 배포시의무사항] “Frameworx 社로부터 라이선스된 소스코드가 여기에 포함되어 있으며, 그 소스코드는 Frameworx 오픈 라이선스 또는 Frameworx 社에 의해 부여된 다른 라이선스에 의해 획득되었다. 이에 따른 사용 및 배포 행위는 관련 라이선스에 제시된 규정들과 라이센서의 저작권에 의해 구속된다. Frameworx 오픈 라이선스의 사본은 the_frameworx_license.txt라는 이름의 파일로 제공되고 여기에 포함되어 있으며, http://www.frameworx.com에서도 열람할 수 있다.”라는 설명문 포함"
+  },
+  {
+    "id": "1037-54",
+    "lid": "1037",
+    "name": "IBM Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[IBM Public License / 주요특징] 뉴욕주 법률 및 미국 지적재산권법을 준거법"
+  },
+  {
+    "id": "1037-55",
+    "lid": "1037",
+    "name": "IBM Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[IBM Public License / 배포시의무사항] 오브젝트코드로 배포시, 다음의 요건을 충족시킨다는 전제하에 독자적인 라이선스 가능 - 동 라이선스 조건 준수 - 기여자를 대신하여 관련 보증사항 부인 - 기여자를 대신하여 관련 책임을 효과적으로 배제 - 동 라이선스와 상이한 조건들은 해당 기여자가 단독으로 제공한다는 진술 포함 - 관련 소스코드가 제공된다는 사실을 진술하고, 소스코드를 입수할 수 있는 방법 고지 소스코드로 배포시, - 동 라이선스에 따라 제공 - 라이선스 사본 포함"
+  },
+  {
+    "id": "1037-56",
+    "lid": "1037",
+    "name": "IBM Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[IBM Public License / 배포시의무사항] “Copyright (c) 1996, 1999 International Business Machines Corporation and others. 모든 권한을 보유함”이라는 표시 각 기여자 및 관련 기여내용 표시"
+  },
+  {
+    "id": "1038-57",
+    "lid": "1038",
+    "name": "Motosoto License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Motosoto License / 배포시의무사항] 라이선스 사본 포함 수정물을 포함한 모든 소스코드 제공 수정사항, 추가사항, 삭제사항 및 관련 날짜를 기록 제3자의 지적재산권이 필요한 경우 “LEGAL\" 파일에 관련 내용 기록 Exhibit A의 고지사항 포함 실행파일을 다른 라이선스로 배포하는 경우 - 위의 의무사항을 충족시키며, - 소스코드가 동 라이선스의 조건에 따라 제공된다는 진술 - 저작권표시 유지 - 상이한 조건들은 배포자 단독으로 제공하는 것임을 명백히 할 것"
+  },
+  {
+    "id": "1039-58",
+    "lid": "1039",
+    "name": "Multics License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Multics License / 주요특징] ‘역사적 배경’을 모든 복제본에 포함하도록 요구"
+  },
+  {
+    "id": "1039-59",
+    "lid": "1039",
+    "name": "Multics License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Multics License / 배포시의무사항] 저작권 표시 역사적 배경을 모든 복제본에 포함 라이선스 관련 문구 포함"
+  },
+  {
+    "id": "1040-60",
+    "lid": "1040",
+    "name": "Naumen Public License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Naumen Public License / 배포시의무사항] 저작권 표시 라이선스 조건 포함 부인사항 포함"
+  },
+  {
+    "id": "1041-61",
+    "lid": "1041",
+    "name": "Nethack General Public License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Nethack General Public License / 배포시의무사항] 저작권, 라이선스, 보증이 없음을 고지 라이선스 사본 포함 수정시 수정사실 및 날짜를 기록 동일한 라이선스에 의한 배포 소스코드를 제공하거나, 입수방법 제시"
+  },
+  {
+    "id": "1042-62",
+    "lid": "1042",
+    "name": "Nokia Open Source License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Nokia Open Source License / 주요특징] '관계사(Affiliates)'에 대한 개념정의 핀란드 법률을 준거법 핀란드 상공회의소에 의한 중재"
+  },
+  {
+    "id": "1042-63",
+    "lid": "1042",
+    "name": "Nokia Open Source License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Nokia Open Source License / 배포시의무사항] 라이선스 사본 제공 소스코드의 제공 수정시 관련 사항 및 날짜를 기록 제3자의 지적재산권 필요시 \"LEGAL\"파일에 기록 Exhibit A 고지사항 포함"
+  },
+  {
+    "id": "1043-64",
+    "lid": "1043",
+    "name": "OCLC Research Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[OCLC Research Public License 2.0 / 배포시의무사항] 보증부인/책임제한에 관한 다음의 내용을 명시적으로 표시"
+  },
+  {
+    "id": "1043-65",
+    "lid": "1043",
+    "name": "OCLC Research Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[OCLC Research Public License 2.0 / 배포시의무사항] “당신은 프로그램이 있는 그대로의 상태로 어떠한 종류의 (명시적이거나 묵시적인) 보증도 제공하지 않고 제공된다는 데 동의한다. 따라서, OCLC는 (A) 프로그램이나 수정코드, 결합 저작물, 또는 집합 저작물의 기능이나 비침해 또는 (B) 프로그램이나 수정코드, 결합 저작물, 또는 집합 저작물을 사용하여 시행된 프로젝트의 결과와 관련하여, 어떤 보증이나 선언, 보장도 명시적으로나 묵시적으로 제공하지 않으며, 상품성과 특정 목적에의 적합성에 대한 묵시적 보증을 제한 없이 포함하는 모든 보증이나 선언, 보장을 부인한다. 사전에 손해 가능성을 알고 있었다 하더라도, 기여자는 프로그램의 사용과 관련하여 발생한, (대체 상품이나 용역의 구입 효용성, 데이터, 이익의 손실 영업 방해를 포함하나 이에 국한되지는 않는) 직접적이거나 간접적인 손해, 우발적이거나 특수한 손해, 일반적이거나 결과적 손해 등에 대하여, 손해의 발생 원인이나 어떤 책임 이론, 계약, 무과실 책임, 불법행위(과실 포함) 등과 관계 없이, 어떠한 책임도 지지 않는다. 당신은 당신이 프로그램을 사용함으로 인해 발생할 수 있는 모든 종류의 손해와 관련하여 기여자를 상대로 한 모든 손해배상 청구권을 포기한다.”"
+  },
+  {
+    "id": "1043-66",
+    "lid": "1043",
+    "name": "OCLC Research Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[OCLC Research Public License 2.0 / 배포시의무사항] 수정가능한 코드를 배포할 경우 다음과 같은 고지사항 포함 \"저작권 (c) 2000- (해당 연도 입력) OCLC Online Computer Library Center,"
+  },
+  {
+    "id": "1043-67",
+    "lid": "1043",
+    "name": "OCLC Research Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[OCLC Research Public License 2.0 / 배포시의무사항] Inc. 와 다른 기여자들. 모든 권한을 보유함. OCLC 연구소에 의해 때때로 업데이트되는 이 파일의 컨텐츠는 OCLC 리서치 공중 라이선스 버전 2.0(\"라이선스\")에 의해 구속되며 당신은 라이선스를 준수하지 않는 한 이 파일을 사용할 수 없다. 라이선스의 사본은 http://purl.oclc.org/oclc/research/ORPL/ 에서 구할 수 있다. 라이선스에 따라 배포되는 소프트웨어는 \"있는 그대로\"의 상태로, 어떠한 종류의 명시적이거나 묵시적인 보증도 제공하지 않는다. 본 라이선스에 따른 권리와 제한 사항을 구속하는 특정한 언어에 대해서는 라이선스를 참고하라. 이 소프트웨어는 많은 개인들이 OCLC 리서치를 위하여 자발적으로 작성한 기여물들로 구성된다. OCLC 리서치에 대한 보다 자세한 정보는http://www.oclc.org/oclc/research/를 참고하라."
+  },
+  {
+    "id": "1043-68",
+    "lid": "1043",
+    "name": "OCLC Research Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[OCLC Research Public License 2.0 / 배포시의무사항] 원본 코드: ______________________________. 원본 코드의 최초 개발자: ________________________. ______________________ 에 의해 작성된 부분: Copyright (C) _______________________. 모든 권리를 보유함. 기여자:______________________________________.\" 수정불가능한 코드를 배포할 경우 다음과 같은 고지사항 포함"
+  },
+  {
+    "id": "1043-69",
+    "lid": "1043",
+    "name": "OCLC Research Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[OCLC Research Public License 2.0 / 배포시의무사항] \"저작권 (c) 2000- (해당 연도 입력) OCLC Online Computer Library Center, Inc. 및 다른 기여자들. 모든 권리를 보유함.\" 오브젝트코드의 경우 소스코드 제공"
+  },
+  {
+    "id": "1044-70",
+    "lid": "1044",
+    "name": "PHP License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[PHP License / 배포시의무사항] 저작권표시, 라이선스 조건 및 부인조항 포함 모든 형태의 재배포에 다음과 같은 acknowledgement가 포함되어야 함 \"이 제품은 PHP를 포함하며, 이는 http://www.php.net/>에서 무료로 받을 수 있습니다.\""
+  },
+  {
+    "id": "1044-71",
+    "lid": "1044",
+    "name": "PHP License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[PHP License / 배포시의무사항] 이 소프트웨어는 PHP 개발 팀에 의해 \"있는 그대로\"의 상태로 제공되며, 상품성 여부나 특정 목적에 대한 적합성에 대한 묵시적 보증을 포함한, 그리고 이에 국한되지는 않는, 어떤 명시적이거나 묵시적인 보증도 부인된다. 사전에 손해 가능성을 알고 있었다 하더라도, PHP 개발 팀이나 그 기여자들은 이 소프트웨어의 사용과 관련하여 발생한, (대체 상품이나 용역의 구입 효용과 데이터 또는 수익의 손해 또는 영업 방해를 포함하나 이에 국한되지는 않는 범위의) 직접적이거나 간접적인 손해, 우발적이거나 특수한 손해, 일반적이거나 결과적 손해에 대하여 그 손해의 발생 원인이나 어떤 책임 이론, 계약, 무과실 책임, 또는 불법행위(과실 포함)와 관계 없이 어떠한 책임도 지지 않는다."
+  },
+  {
+    "id": "1044-72",
+    "lid": "1044",
+    "name": "PHP License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[PHP License / 배포시의무사항] -------------------------------------------------------------------- 이 소프트웨어는 PHP 그룹을 위해 많은 개인들이 자발적으로 기여한 기여물들로 구성된다. PHP 그룹에 연락을 하려면 group@php.net 로 이메일을 보낼 수 있다. PHP 그룹과 PHP 프로젝트에 대한 보다 자세한 정보는 웹사이트를 참고하라: http://www.php.net>. 이 제품은 Zend Engine을 포함하며, 이는 http://www.zend.com>에서 무료로 제공받을 수 있다."
+  },
+  {
+    "id": "1045-73",
+    "lid": "1045",
+    "name": "Python License (CNRI Python License)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Python License (CNRI Python License) / 주요특징] 버지니아주 법률을 준거법"
+  },
+  {
+    "id": "1045-74",
+    "lid": "1045",
+    "name": "Python License (CNRI Python License)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Python License (CNRI Python License) / 배포시의무사항] 라이선스 사본을 포함하거나, 아래의 내용을 포함 \"Python 1.6, beta 1은 CNRI 라이선스 계약서의 규정과 조건들에 의해 구속되어 제공된다. 이 계약서는 다음의 유일하고 지속적인 식별자(핸들이라고도 함)를 사용하여 인터넷 상에 올릴 수 있다: 1895.22/1011. 또한 이 계약서는 URL:http://hdl.handle.net/1895.22/1011을 사용하는 인터넷상의 프록시 서버로부터 받을 수도 있다.\" 수정사항의 특징을 표시"
+  },
+  {
+    "id": "1046-75",
+    "lid": "1046",
+    "name": "Python Software Foundation License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Python Software Foundation License / 배포시의무사항] “Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Python 소프트웨어 재단; 모든 권리를 보유함” 저작권 표시 수정사항의 특징을 표시"
+  },
+  {
+    "id": "1047-76",
+    "lid": "1047",
+    "name": "RealNetworks Public Source License V1.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[RealNetworks Public Source License V1.0 / 주요특징] 호환가능한 소스 라이선스를 Exhibit B에 리스트 “외부적 유포”에 대해 개념정의하고, 네트워크를 통한 서비스를 포함함 워싱턴 시애틀 주법원 및 연방법원 관할 워싱턴주 법률과 미국 법률을 준거법"
+  },
+  {
+    "id": "1047-77",
+    "lid": "1047",
+    "name": "RealNetworks Public Source License V1.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[RealNetworks Public Source License V1.0 / 배포시의무사항] 저작권사항, 라이센서의 기타 재산권고지와 부인사항을 그대로 포함 라이선스를 언급하는 모든 고지사항 유지 및 라이선스 사본 첨부 Exhibit A의 고지사항 포함 모든 수정코드에 대한 소스코드를 제공하거나, 이용가능하게 해야 함"
+  },
+  {
+    "id": "1048-78",
+    "lid": "1048",
+    "name": "Reciprocal Public License 1.0",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Reciprocal Public License 1.0 / 주요특징] 서문에 라이선스의 전체내용을 요약하여 기재 “유포”에 대한 개념 정의하고, 네트워크를 통해 제공하는 “Serve\"를 포함 특히 ‘위험성이 높은 활동’에 대한 보증 부인 “필수구성요소”를 정의하고, 프로그램을 설치하거나 실행하는데 필요한 텍슽, 프로그램, 스크립트, 도식, 인터페이스정의, 제어파일 등을 포함시킴 콜로라도 법률을 준거법 미국중재협회에 의한 중재"
+  },
+  {
+    "id": "1048-79",
+    "lid": "1048",
+    "name": "Reciprocal Public License 1.0",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Reciprocal Public License 1.0 / 배포시의무사항] 라이선스 사본 포함 수정내용에 대한 특징, 변경한 사람 및 날짜를 기록한 “CHANGES\" 파일 포함 소스코드의 제공 라이센서에게 수정한 내용의 소스코드가 사용가능하다는 사실을 통지하고, 수정물에 대한 간단한 설명과 제목, 소스코드 및 추후의 업데이트를 획득할 수 있는 방법을 통지 제3자의 지적재산권이 필요한 경우 “LEGAL\" 파일에 기록 Exhibit A의 고지사항 포함 확장물을 생성하는 경우 “CONTRIB\"라는 파일을 생성하여 설명"
+  },
+  {
+    "id": "1049-80",
+    "lid": "1049",
+    "name": "Ricoh Source Code Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Ricoh Source Code Public License / 배포시의무사항] 라이선스 사본 포함 수정코드에 대한 설명 포함 제3자의 지적재산권이 필요한 경우 “LEGAL\"파일에 해당사항 기록 Exhibit A의 고지사항 유지 소스코드의 제공"
+  },
+  {
+    "id": "1050-81",
+    "lid": "1050",
+    "name": "Sleepycat License",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Sleepycat License / 주요특징] DB소프트웨어와 DB소프트웨어를 사용하는 동봉된 소프트웨어에 대한 오나전한 소스코드를 구할 수 있는 방법에 대한 정보 첨부"
+  },
+  {
+    "id": "1050-82",
+    "lid": "1050",
+    "name": "Sleepycat License",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Sleepycat License / 배포시의무사항] 저작권 문구 및 라이선스 조건, 부인 조항 포함 DB나 DB를 사용하는 동봉된 소프트웨어에 대한 완전한 소스코드를 구할 수 있는 방법에 대한 정보를 첨부"
+  },
+  {
+    "id": "1051-83",
+    "lid": "1051",
+    "name": "Sun Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Sun Public License / 주요특징] Exhibit A에 포함된 라이선스들 중 수취인이 라이선스 선택가능 캘리포니아주 법률을 준거법 캘리포니아 북부지구 연방법원을 관할 법원"
+  },
+  {
+    "id": "1051-84",
+    "lid": "1051",
+    "name": "Sun Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Sun Public License / 배포시의무사항] 라이선스 사본 포함 소스코드의 이용제공 수정코드의 설명 제3자의 지적재산권이 필요한 경우 LEGAL 파일 작성 Exhibit A의 고지사항 포함"
+  },
+  {
+    "id": "1052-85",
+    "lid": "1052",
+    "name": "Sybase Open Watcom Public License 1.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Sybase Open Watcom Public License 1.0 / 주요특징] \"유포“에 대한 개념 정의 라이선스를 클릭랩(click-wrap) 형식으로 포함시킬 것을 요구 캘리포니아주 법률과 미국법률을 준거법 캘리포니아 북부지구 법원 및 연방법원의 재판관할"
+  },
+  {
+    "id": "1052-86",
+    "lid": "1052",
+    "name": "Sybase Open Watcom Public License 1.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Sybase Open Watcom Public License 1.0 / 배포시의무사항] 저작권사항 및 기타 재산권 고지와 부인사항 유지 라이선스를 언급하는 모든 고지사항을 유지하고, 라이선스 사본을 포함시킬 것 라이선스를 클릭랩(click-wrap) 형식으로 포함시킬 것을 요구 Exhibit A의 고지사항 포함 소스코드의 제공"
+  },
+  {
+    "id": "1053-87",
+    "lid": "1053",
+    "name": "Vovida Software License v. 1.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Vovida Software License v. 1.0 / 주요특징] 책임의 범위를 $1,000으로 한정하는 조항 포함"
+  },
+  {
+    "id": "1053-88",
+    "lid": "1053",
+    "name": "Vovida Software License v. 1.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Vovida Software License v. 1.0 / 배포시의무사항] 저작권 문구, 라이선스 조건, 부인조항 포함"
+  },
+  {
+    "id": "1054-89",
+    "lid": "1054",
+    "name": "W3C License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[W3C License / 배포시의무사항] 라이선스 전문을 재패포하거나 볼 수 있게끔 해야 함 지적재산권 부인조항이나 규정, 조건 들이 존재하는 경우 이를 포함해야 하며, 이러한 사항들이 존재하지 않는 경우 다음의 사항을 포함"
+  },
+  {
+    "id": "1054-90",
+    "lid": "1054",
+    "name": "W3C License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[W3C License / 배포시의무사항] \"Copyright ⓒ [소프트웨어의 연도를 입력하라] World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). 모든 권리를 보유함. http://www.w3.org/Consortium/Legal/\" 모든 변경사항이나 수정사항에 대한 고지를 포함"
+  },
+  {
+    "id": "1055-91",
+    "lid": "1055",
+    "name": "wxWindows Library License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[wxWindows Library License / 주요특징] 원칙적으로 GPL 2.0 또는 후속버전에 의해 배포하면서 예외를 부여함 라이브러리에 기반한 저작물의 바이너리 오브젝트 코드 버전을 사용자의 독자적인 규정에 따라 사용, 복제, 링크, 수정 및 배포하는 것이 가능"
+  },
+  {
+    "id": "1055-92",
+    "lid": "1055",
+    "name": "wxWindows Library License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[wxWindows Library License / 배포시의무사항] 각 복제본에 적절한 저작권 고지와 보증책임이 없음을 명시 GPL 라이선스를 언급하는 고지사항과 보증책임 관련 고지사항을 원본 그대로 유지 프로그램을 양도 받는 모든 이들에게 프로그램과 함께 GPL 라이선스 사본 제공 파일 수정의 경우 수정사실과 날짜를 파일에 명기 원본저작물과 파생저작물을 GPL 2.0에 의해 배포 원본저작물 및 파생저작물에 대한 소스코드를 제공하거나, 요청시 제공하겠다는 약정서 제공"
+  },
+  {
+    "id": "1056-93",
+    "lid": "1056",
+    "name": "Zope Public License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Zope Public License / 배포시의무사항] 저작권 문구, 라이선스 조건 및 부인조항 포함 수정한 내용 및 수정날짜 표시"
+  },
+  {
+    "id": "1058-94",
+    "lid": "1058",
+    "name": "Apache Software License 1.1",
+    "spdx": "Apache-1.1",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Apache Software License 1.1 / 배포시의무사항] 저작권 문구, 라이선스 조건 및 부인사항 포함 최종사용자 문서에 다음과 같은 문구 포함 “이 제품은 아파치 소프트웨어재단(http://www.apache.org/)에 의해 roqkfehlse 소프트웨어를 포함한다”"
+  },
+  {
+    "id": "1059-95",
+    "lid": "1059",
+    "name": "Artistic License 1.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Artistic License 1.0 / 배포시의무사항] 저작권 문구와 관련 부인 조항 포함 수정을 가한 날짜와 수정방법을 명시한 수정버전을 일정한 요건(제3조)하에 배포 오브젝트코드나 실행파일형식으로 배포하는 경우 제4조가 정한 요건중 하나를 충족"
+  },
+  {
+    "id": "1060-96",
+    "lid": "1060",
+    "name": "Eiffel Forum License V1.0",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Eiffel Forum License V1.0 / 배포시의무사항] 저작권 고지를 원본 그대로 포함 라이선스 파일 포함"
+  },
+  {
+    "id": "1061-97",
+    "lid": "1061",
+    "name": "Lucent Public License (Plan9)",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Lucent Public License (Plan9) / 주요특징] 뉴욕주 법률과 미국 지적재산권법을 준거법"
+  },
+  {
+    "id": "1061-98",
+    "lid": "1061",
+    "name": "Lucent Public License (Plan9)",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Lucent Public License (Plan9) / 배포시의무사항] 라이선스 사본 포함 독자적인 라이선스인 경우 모든 기여자에 대해 보증을 부인하고 책임을 제한하는 내용을 포함 저작권 표시"
+  },
+  {
+    "id": "1062-99",
+    "lid": "1062",
+    "name": "Mozilla Public License 1.0 (MPL)",
+    "spdx": "MPL-1.0",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Mozilla Public License 1.0 (MPL) / 주요특징] 캘리포니아주 법률을 준거법 중재조항 포함"
+  },
+  {
+    "id": "1062-100",
+    "lid": "1062",
+    "name": "Mozilla Public License 1.0 (MPL)",
+    "spdx": "MPL-1.0",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Mozilla Public License 1.0 (MPL) / 배포시의무사항] 라이선스 사본 포함 소스코드의 제공 수정사항의 설명 제3자의 지적재산권 필요시 \"LEGAL\"파일에 기록 Exhibit의 고지사항 포함"
+  },
+  {
+    "id": "1064-101",
+    "lid": "1064",
+    "name": "Intel Open Source License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Intel Open Source License / 배포시의무사항] 저작권 문구, 라이선스 조건 및 부인사항 포함"
+  },
+  {
+    "id": "1065-102",
+    "lid": "1065",
+    "name": "Jabber Open Source License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Jabber Open Source License / 주요특징] 캘리포니아주 법률을 준거법 캘리포니아 북부지구 연방법원이나 캘리포니아 산타클라라 법원을 관할 법원"
+  },
+  {
+    "id": "1065-103",
+    "lid": "1065",
+    "name": "Jabber Open Source License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Jabber Open Source License / 배포시의무사항] 라이선스 사본 포함 소스코드의 이용제공 수정사항의 설명 제3자의 지적재산권이 필요한 경우 \"LEGAL\" 파일에 기록 Exhibit A의 고지사항 포함"
+  },
+  {
+    "id": "1066-104",
+    "lid": "1066",
+    "name": "MITRE Collaborative Virtual Workspace License (CVW License)",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[MITRE Collaborative Virtual Workspace License (CVW License) / 주요특징] GPL 2.0 또는 MPL 선택가능"
+  },
+  {
+    "id": "1066-105",
+    "lid": "1066",
+    "name": "MITRE Collaborative Virtual Workspace License (CVW License)",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[MITRE Collaborative Virtual Workspace License (CVW License) / 배포시의무사항] 다음과 같은 MITRE사의 저작권을 표시하고, 라이선스 사본 포함 Copyright & copy 1994-1999. The MITRE Corporation (target=\"_top\">http://www.mitre.org/). 모든 권리를 보유함"
+  },
+  {
+    "id": "1067-106",
+    "lid": "1067",
+    "name": "Sun Industry Standards Source License (SISSL)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Sun Industry Standards Source License (SISSL) / 주요특징] Exhibit B에 표준을 정의 캘리포니아주 법률을 준거법 캘리포니아 북부지구 연방법원의 재판관할"
+  },
+  {
+    "id": "1067-107",
+    "lid": "1067",
+    "name": "Sun Industry Standards Source License (SISSL)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Sun Industry Standards Source License (SISSL) / 배포시의무사항] 라이선스 사본 포함 수정코드의 경우 표준에 제시된 모든 요구사항을 준수 수정코드가 표준을 준수하지 못하는 경우, 표준 프로토콜과의 차이와 수정코드의 참조실행을 공표하거나, 수정코드를 소스코드 형식으로 공표하고, 해당 편차, 참조실행 도는 수정코드를 동 라이선스 규정에 따라 제공 Exhibit A의 고지사항 복제 실행파일버전으로 배포하는 경우 소스코드 버전이 제공된다는 사실 및 입수방법을 고지"
+  },
+  {
+    "id": "1069-108",
+    "lid": "1069",
+    "name": "Affero GNU Public License",
+    "spdx": "AGPL-3.0-only",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Affero GNU Public License / 주요특징] GPL3.0을 네트워크서버 소프트웨어의 경우에 적용하기 위한 특별규정 GPL 3.0과의 상호운용성을 인정하는 특별 규정을 둠"
+  },
+  {
+    "id": "1069-109",
+    "lid": "1069",
+    "name": "Affero GNU Public License",
+    "spdx": "AGPL-3.0-only",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Affero GNU Public License / 배포시의무사항] 수정버전의 경우 네트워크를 통해 원격으로 대화하는 모든 사용자들에게 해당 소스를 받을 수 있는 기회를 제공해야 함 다음과 같은 GPL3.0의 의무사항을 준수 : -각 복제본에 저작권 고지와 보증책임이 없음을 명시 -GPL 3.0의 조건 및 제7조의 조건에 관한 내용을 있는 그대로 유지 -프로그램을 양도 받는 모든 이들에게 프로그램과 함께 GPL 라이선스 사본 제공 -수정시 수정사실 및 일시를 명시 -원본저작물과 파생저작물을 GPL3.0에 의해 배포 -원본저작물 및 파생저작물에 대한 소스코드를 제공하거나, 요청시 제공하겠다는 약정서 제공 -사용자제품에 대한 인증키 등 설치정보의 제공"
+  },
+  {
+    "id": "1069-110",
+    "lid": "1069",
+    "name": "Affero GNU Public License",
+    "spdx": "AGPL-3.0-only",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Affero GNU Public License / 배포시의무사항] -차별적인 특허라이선스 계약체결의 금지"
+  },
+  {
+    "id": "1070-111",
+    "lid": "1070",
+    "name": "Boost Software License (BSL1.0)",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Boost Software License (BSL1.0) / 배포시의무사항] 저작권 고지, 라이선스 부여 및 부인조항 포함 라이선스 전문 포함"
+  },
+  {
+    "id": "1071-112",
+    "lid": "1071",
+    "name": "Common Public Attribution License 1.0 (CPAL)",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Common Public Attribution License 1.0 (CPAL) / 주요특징] \"외부 유포\"의 개념을 정의하고, 네트워크상의 이용을 포함시킴(제15조) Exhibit B에 포함된 귀속사항(attribution)을 사용자의 컴퓨터에 명시적으로 나타나도록 요구 Exhibit A에 포함된 대체 라이선스 사용 가능"
+  },
+  {
+    "id": "1071-113",
+    "lid": "1071",
+    "name": "Common Public Attribution License 1.0 (CPAL)",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Common Public Attribution License 1.0 (CPAL) / 배포시의무사항] 라이선스 사본 포함 소스코드의 이용제공 수정코드의 설명 제3자의 지적재산권이 필요한 경우 \"LEGAL\" 파일 생성 Exhibit A의 고지사항 포함 실행파일버전 배포시 소스코드가 제공된다는 사항 포함 Exhibit B에 포함된 귀속사항(attribution)을 사용자의 컴퓨터에 명시적으로 나타나도록 요구"
+  },
+  {
+    "id": "1072-114",
+    "lid": "1072",
+    "name": "GNU General Public License version 3.0 (GPLv3)",
+    "spdx": "GPL-3.0-only",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[GNU General Public License version 3.0 (GPLv3) / 주요특징] ‘배포(distribution)’를 ‘컨베이(convey)’라는 용어로 대체 복제, 수정, 배포행위 등을 포함하는 ‘프로퍼게이트(propagate)' 용어 사용 ‘해당 소스(corresponding source)에 인터페이스 정의 파일, 저작물의 서브프로그램과 다른 부분들 사이의 제어 흐름이나 밀접한 데이터 통신 등을 통해 저작물이 특별히 필요로 하는, 동적 링크된 하위 프로그램과 공유 라이브러리의 소스코드를 포함 기술적보호조치의 보호에 관한 법적 권리의 포기(제3조)"
+  },
+  {
+    "id": "1072-115",
+    "lid": "1072",
+    "name": "GNU General Public License version 3.0 (GPLv3)",
+    "spdx": "GPL-3.0-only",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[GNU General Public License version 3.0 (GPLv3) / 주요특징] 사용자제품에 대한 설치정보의 제공. “설치 정보”란 해당 소스의 수정본으로부터 발생한 사용자 제품 내의 저작물의 수정된 버전을 설치하고 실행하기 위한 모든 방법과 절차, 인증키, 기타 필요한 정보를 말함.(제6조) 추가적인 허용사항 또는 제약사항을 부가하는 것을 가능하도록 함(제7조) 차별적인 특허라이선스 계약체결의 금지(제11조) Affero GPL과 결합하거나 연결하여 하나의 저작물을 만들 수 있도록 허용(제13조)"
+  },
+  {
+    "id": "1072-116",
+    "lid": "1072",
+    "name": "GNU General Public License version 3.0 (GPLv3)",
+    "spdx": "GPL-3.0-only",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[GNU General Public License version 3.0 (GPLv3) / 배포시의무사항] 각 복제본에 저작권 고지와 보증책임이 없음을 명시 GPL 3.0의 조건 및 제7조의 조건에 관한 내용을 있는 그대로 유지 프로그램을 양도 받는 모든 이들에게 프로그램과 함께 GPL 라이선스 사본 제공 수정시 수정사실 및 일시를 명시 원본저작물과 파생저작물을 GPL3.0에 의해 배포 원본저작물 및 파생저작물에 대한 소스코드를 제공하거나, 요청시 제공하겠다는 약정서 제공 사용자제품에 대한 인증키 등 설치정보의 제공 차별적인 특허라이선스 계약체결의 금지"
+  },
+  {
+    "id": "1073-117",
+    "lid": "1073",
+    "name": "GNU Library or Lesser General Public License version 3.0 (LGPLv3)",
+    "spdx": "LGPL-3.0-only",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[GNU Library or Lesser General Public License version 3.0 (LGPLv3) / 주요특징] LGPL 라이브러리를 이용한 응용프로그램의 경우 소스코드 제공없이 배포가능 결합라이브러리 작성의 허용(제5조) ‘배포(distribution)’를 ‘컨베이(convey)’라는 용어로 대체 복제, 수정, 배포행위 등을 포함하는 ‘프로퍼게이트(propagate)' 용어 사용 ‘해당 소스(corresponding source)에 인터페이스 정의 파일, 저작물의 서브프로그램과 다른 부분들 사이의 제어 흐름이나 밀접한 데이터 통신 등을 통해 저작물이 특별히 필요로 하는, 동적 링크된 하위 프로그램과 공유 라이브러리의 소스코드를 포함"
+  },
+  {
+    "id": "1073-118",
+    "lid": "1073",
+    "name": "GNU Library or Lesser General Public License version 3.0 (LGPLv3)",
+    "spdx": "LGPL-3.0-only",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[GNU Library or Lesser General Public License version 3.0 (LGPLv3) / 주요특징] 기술적보호조치의 보호에 관한 법적 권리의 포기(제3조) 사용자제품에 대한 설치정보의 제공. “설치 정보”란 해당 소스의 수정본으로부터 발생한 사용자 제품 내의 저작물의 수정된 버전을 설치하고 실행하기 위한 모든 방법과 절차, 인증키, 기타 필요한 정보를 말함.(제6조) 추가적인 허용사항 또는 제약사항을 부가하는 것을 가능하도록 함(제7조) 차별적인 특허라이선스 계약체결의 금지(제11조) Affero GPL과 결합하거나 연결하여 하나의 저작물을 만들 수 있도록 허용(제13조)"
+  },
+  {
+    "id": "1073-119",
+    "lid": "1073",
+    "name": "GNU Library or Lesser General Public License version 3.0 (LGPLv3)",
+    "spdx": "LGPL-3.0-only",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[GNU Library or Lesser General Public License version 3.0 (LGPLv3) / 배포시의무사항] 각 복제본에 저작권 고지와 보증책임이 없음을 명시 LGPL 3.0의 조건 및 제7조의 조건에 관한 내용을 있는 그대로 유지 프로그램을 양도 받는 모든 이들에게 프로그램과 함께 GPL 및 LGPL 라이선스 사본 제공 수정시 수정사실 및 일시를 명시 원본저작물과 파생저작물을 LGPL3.0에 의해 배포 원본저작물 및 파생저작물에 대한 소스코드를 제공하거나, 요청시 제공하겠다는 약정서 제공 사용자제품에 대한 인증키 등 설치정보의 제공 응용프로그램을 배포할 경우, LGPL 라이브러리를 사용하고 있다는 사실을 명시"
+  },
+  {
+    "id": "1073-120",
+    "lid": "1073",
+    "name": "GNU Library or Lesser General Public License version 3.0 (LGPLv3)",
+    "spdx": "LGPL-3.0-only",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[GNU Library or Lesser General Public License version 3.0 (LGPLv3) / 배포시의무사항] 사용자가 라이브러리를 수정해도 응용프로그램을 사용할 수 있도록 (예를 들어 오브젝트코드 등을 제공하거나 공유라이브러리 방식등을 이용하여) 허용"
+  },
+  {
+    "id": "1074-121",
+    "lid": "1074",
+    "name": "ISC License",
+    "spdx": "ISC",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[ISC License / 배포시의무사항] 저작권 고지사항 유지 라이선스 사본 첨부"
+  },
+  {
+    "id": "1075-122",
+    "lid": "1075",
+    "name": "Microsoft Public License (Ms-PL)",
+    "spdx": "MS-PL",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Microsoft Public License (Ms-PL) / 배포시의무사항] 저작권, 특허, 상표 및 귀속사항에 관련된 고지사항 유지 라이선스 사본 포함"
+  },
+  {
+    "id": "1076-123",
+    "lid": "1076",
+    "name": "Microsoft Reciprocal License (Ms-RL)",
+    "spdx": "MS-RL",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Microsoft Reciprocal License (Ms-RL) / 배포시의무사항] 라이선스 사본 포함 저작권, 특허권, 상표 및 귀속사항에 관련된 고지사항 유지 소스코드의 제공"
+  },
+  {
+    "id": "1077-124",
+    "lid": "1077",
+    "name": "MirOS License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[MirOS License / 배포시의무사항] 저작권 고지사항 유지 라이선스 사본 첨부"
+  },
+  {
+    "id": "1078-125",
+    "lid": "1078",
+    "name": "Non-Profit Open Software License 3.0",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Non-Profit Open Software License 3.0 / 주요특징] \"외부적 유포\"에 대한 개념을 정의하고, 네트워크상의 이용을 포함 승소당사자에게 변호사수임료 등을 청구할 수 있는 권리 부여"
+  },
+  {
+    "id": "1078-126",
+    "lid": "1078",
+    "name": "Non-Profit Open Software License 3.0",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Non-Profit Open Software License 3.0 / 배포시의무사항] 소스코드의 제공 저작권, 특허권, 상표권 및 라이선스 설정관련 고지사항을 포함 귀속사항(attribution)을 포함하고, 수정시 수정사항에 대한 내용을 귀속사항에 포함"
+  },
+  {
+    "id": "1079-127",
+    "lid": "1079",
+    "name": "NTP License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[NTP License / 배포시의무사항] 저작권, 라이선스 조건 관련 고지사항 포함"
+  },
+  {
+    "id": "1080-128",
+    "lid": "1080",
+    "name": "Reciprocal Public License 1.5 (RPL1.5)",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[Reciprocal Public License 1.5 (RPL1.5) / 주요특징] \"유포\"에 대해 개념정의하고, 네트워크에 의해 서비스하는 \"Serve\"를 포함시킴 “필수구성요소”를 정의하고, 프로그램을 설치하거나 실행하는데 필요한 텍슽, 프로그램, 스크립트, 도식, 인터페이스정의, 제어파일 등을 포함시킴 특히 ‘위험성이 높은 활동’에 대한 보증 부인 콜로라도 법률을 준거법 미국중재협회에 의한 중재"
+  },
+  {
+    "id": "1080-129",
+    "lid": "1080",
+    "name": "Reciprocal Public License 1.5 (RPL1.5)",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[Reciprocal Public License 1.5 (RPL1.5) / 배포시의무사항] 라이선스 사본 포함 Exhibit A의 고지사항 포함 Exhibit B의 고지사항 포함 소스코드의 제공 수정코드의 설명 제3자의 지적재산권이 필요한 경우 관련 내용을 파일에 포함"
+  },
+  {
+    "id": "1081-130",
+    "lid": "1081",
+    "name": "Simple Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Simple Public License 2.0 / 주요특징] GPL 2.0을 평이한 용어로 설명한 것으로, GPL 2.0의 조건과 동일"
+  },
+  {
+    "id": "1081-131",
+    "lid": "1081",
+    "name": "Simple Public License 2.0",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[Simple Public License 2.0 / 배포시의무사항] 수정시 수정사항과 날짜를 명확하게 기록 저작권 문구와 보증 부인 조항, 라이선스 규정을 그대로 유지 소스코드와 빌드 스크립트, 설치 스크립트, 인터페이스 정의를 제공 SimPL이나 (GPL 2.0과 같이) 이와 유사한 규정에 따라 모든 사람에게 사용을 허가"
+  },
+  {
+    "id": "1083-132",
+    "lid": "1083",
+    "name": "Other/Proprietary License",
+    "spdx": "",
+    "tier": "REVIEW",
+    "section": "개요",
+    "text": "[Other/Proprietary License / 개요] 기타 미확인 라이선스"
+  },
+  {
+    "id": "1084-133",
+    "lid": "1084",
+    "name": "IPA Font License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "개요",
+    "text": "[IPA Font License / 개요] 라이선서(Licensor)는 라이선스 계약서 (계약)에 준하여 승인된 프로그램을 공급한다. 수신인이 본 계약 하에 허가된 프로그램의 활용, 복제, 배포 혹은 권한행사 (아래 1항에 정의된 바에 따라) 할 시 본 계약에 대한 수신자 동의로 간주한다."
+  },
+  {
+    "id": "1085-134",
+    "lid": "1085",
+    "name": "European Union Public Licence",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "개요",
+    "text": "[European Union Public Licence / 개요] EUPL 은 최초의 유럽 무료 /개방형 소소 소프트웨어 (F/OSS) 입니다. IDA 와 IDABC 프로그램 구조에서 개발된 EUPL은 배포형 소프트웨어로 활용되도록 승인 받은 라이선스 입니다. 그렇지만, 라이선스 본문은 보편적인 용어로 초안 되어있어 경우에 따라 이 라이선스는 사설기관, 개인 뿐만 아니라 다른 유럽 기관, 국가, 지역, 지방행정, 공공 기관의 다른 소프트웨어 응용에 활용될 수 있습니다. EUPL에 대한 더 많은 정보는 OSOR.EU 사이트에서 확인할 수 있다."
+  },
+  {
+    "id": "1086-135",
+    "lid": "1086",
+    "name": "SIL OPEN FONT LICENSE",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "개요",
+    "text": "[SIL OPEN FONT LICENSE / 개요] 본 공개 폰트 라이선스(OFL)의 목표는 전 세계를 자극하여 글꼴 공동 프로젝트를 개발하고, 학계 및 언어 공동체의 글꼴 제작 창조 노력을 지원하여, 폰트를 공유하고 협력관계가 증진되는 자유롭고 공개된 구조를 제공하기 위함이다. OFL은 판매가 아닌 한, 허가된 폰트의 사용, 연구, 수정 및 재 배포를 자유롭게 허락한다. 파생폰트를 포함, 폰트들은 번들 되거나, 내장, 재 배포 될 수 있다 또는 소유권 명이 파생폰트에 사용되지만 않는다면 어떤 소프트웨어와도 판매될 수 있다 폰트와 파생폰트는, 단, 어떤 유형의 라이선스 하에서도 배포될 수 없다."
+  },
+  {
+    "id": "1086-136",
+    "lid": "1086",
+    "name": "SIL OPEN FONT LICENSE",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "개요",
+    "text": "[SIL OPEN FONT LICENSE / 개요] 본 라이선스 하에 있는 폰트에 대한 요구사항은 폰트 혹은 그 파생폰트를 사용하여 제작된 어떤 문서에도 적용하지 않는다."
+  },
+  {
+    "id": "1087-137",
+    "lid": "1087",
+    "name": "LaTeX Project Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "개요",
+    "text": "[LaTeX Project Public License / 개요] 현재의 관리자(Current Maintainer)의 역할, 권한, 변경 등에 대한 상세한 조항을 두고 있음 관리자인 경우와 그렇지 않은 경우의 의무사항을 구분하여 규정 베이스 인터프리터에 관한 사항들은 보다 엄격한 제한을 두고 있음"
+  },
+  {
+    "id": "1087-138",
+    "lid": "1087",
+    "name": "LaTeX Project Public License",
+    "spdx": "",
+    "tier": "RESTRICTED",
+    "section": "배포시의무사항",
+    "text": "[LaTeX Project Public License / 배포시의무사항] 현재의 관리자인 경우와 그렇지 않은 경우를 구분 (관리자인 경우) 별다른 제한 없이 파생저작물(업데이트 버전)을 작성 및 배포할 수 있음 (관리자가 아닌 경우) 파생저작물의 경우 수정된 버전임을 식별할 수 있도록 함 파생저작물을 배포할 경우 원 저작물에 대한 접근도 제공해야 함 파생저작물의 컴파일 버전을 배포할 경우 파생저작물도 함께 제공해야 함"
+  },
+  {
+    "id": "1088-139",
+    "lid": "1088",
+    "name": "Mozilla Public License version 2.0",
+    "spdx": "MPL-2.0",
+    "tier": "RESTRICTED",
+    "section": "주요특징",
+    "text": "[Mozilla Public License version 2.0 / 주요특징] GPL 2.0, LGPL 2.1, Affero GPL 3.0 및 이들의 후속 버전들을 부차적 라이선스로 정의하고, 부차적 라이선스와의 양립가능성에 관한 사항들을 포함 배포시 의무사항 원본 및 수정코드를MPL 2.0에 의해 배포 라이선스 사본을 입수할 수 있는 방법에 대해 고지 소스코드를 제공하거나 입수할 수 있는 방법에 대한 고지 라이선스 고지사항에 포함된 내용의 수정 금지 법령이나 규제로 인해 규정의 준수가 불가능할 경우 관련 제한사항과 영향을 받는 코드에 관한 설명문을 포함할 것"
+  },
+  {
+    "id": "1089-140",
+    "lid": "1089",
+    "name": "The Open Group Test Suite License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[The Open Group Test Suite License / 주요특징] Test Suite에 적합하도록 만들어진 라이선스"
+  },
+  {
+    "id": "1089-141",
+    "lid": "1089",
+    "name": "The Open Group Test Suite License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[The Open Group Test Suite License / 배포시의무사항] 표준 버전과 다른 버전을 배포할 경우 반드시 다른 이름을 사용해야 하며, 표준형과 어떻게 다른지를 설명하는 별도의 매뉴얼을 제공할 것 비표준 버전을 배포할 때 표준 버전을 함께 배포할 것"
+  },
+  {
+    "id": "1090-142",
+    "lid": "1090",
+    "name": "The PostgreSQL Licence",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "개요",
+    "text": "[The PostgreSQL Licence / 개요] PostgreSQL Licence는 PostgreSQL과 함께 배포되는 라이선스로서, BSD 또는MIT 라이선스와 유사한, 매우 자유로운 라이선스이다"
+  },
+  {
+    "id": "1091-143",
+    "lid": "1091",
+    "name": "CeCILL License 2.1 ",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "주요특징",
+    "text": "[CeCILL License 2.1  / 주요특징] GPL의 주요 내용을 프랑스 법률에 맞추어 작성 협약에 대한 라이선시의 승낙에 관한 사항을 규정 GPL, AGPL, EUPL과의 상호운용성에 관한 내용을 규정 프랑스어와 영어의 두 버전으로 작성 프랑스 법을 준거법으로 하고 있음 파리 법원을 관할법원으로 함"
+  },
+  {
+    "id": "1091-144",
+    "lid": "1091",
+    "name": "CeCILL License 2.1 ",
+    "spdx": "",
+    "tier": "FORBIDDEN",
+    "section": "배포시의무사항",
+    "text": "[CeCILL License 2.1  / 배포시의무사항] 라이선스 사본의 첨부 보증과 책임의 제한에 관한 내용의 공지 최소3년간 소스코드에 접근할 수 있는 정보의 제공 지적재산권 관련 공지사항을 유지할 것"
+  },
+  {
+    "id": "1092-145",
+    "lid": "1092",
+    "name": "BSD 3-Clause ",
+    "spdx": "BSD-3-Clause",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[BSD 3-Clause  / 배포시의무사항] 재배포시 저작권 표시, 준수 조건 및 보증부인에 대한 고지사항을 소스코드 또는 문서 및 기타 자료에 포함 최초개발자나 기여자의 이름을 제품에 대한 보증이나 홍보에 사용하지 못함"
+  },
+  {
+    "id": "1093-146",
+    "lid": "1093",
+    "name": "BSD 2-Clause ",
+    "spdx": "BSD-2-Clause",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[BSD 2-Clause  / 배포시의무사항] 재배포시 저작권 표시, 준수조건 및 보증부인에 대한 고지사항을 소스코드 또는 문서 및 기타자료에 포함시킬 것"
+  },
+  {
+    "id": "1094-147",
+    "lid": "1094",
+    "name": "Open Group Test Suite License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "주요특징",
+    "text": "[Open Group Test Suite License / 주요특징] Test Suite에 적합하도록 만들어진 라이선스"
+  },
+  {
+    "id": "1094-148",
+    "lid": "1094",
+    "name": "Open Group Test Suite License",
+    "spdx": "",
+    "tier": "NOTICE",
+    "section": "배포시의무사항",
+    "text": "[Open Group Test Suite License / 배포시의무사항] 표준 버전을 배포할 때 저작권자 고지사항과 무보증 관련 사항을 표시할 것 표준 버전과 다른 버전을 배포할 경우 어떠한 사항이 언제 바뀌었는지를 표시하고, 반드시 다른 이름을 사용해야 하며, 표준형과 어떻게 다른지를 설명하는 별도의 매뉴얼을 제공할 것 비표준 버전을 배포할 때 표준 버전을 함께 배포할 것."
+  }
+]

@@ -1,0 +1,45 @@
+# secrets — 절대 커밋 금지 (제출 체크리스트 항목)
+.env
+*.key
+service-account*.json
+*-key.json
+gcp-key*.json
+credentials*.json
+# 서비스 계정 키는 파일명이 프로젝트마다 달라 이름으로 거를 수 없다.
+# 저장소 최상위의 .json 을 통째로 막고, 필요한 것만 아래에서 되살린다.
+/*.json
+!/package.json
+!/tsconfig.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 생성 데이터 / 인덱스
+data/*.json
+data/*.txt
+data/*.log
+data/*.xml
+data/*.png
+# 검사 실행 중 만들어지는 작업공간 사본과 이력
+data/workspaces/
+!data/.gitkeep
+# 아래 둘은 재현성을 위해 커밋한다 (심사자가 API 키 없이도 실행 가능해야 함).
+# 출처: 한국저작권위원회 오픈소스SW 라이선스정보 서비스 -> SECTION 17 에 표기
+!data/licenses.json
+!data/license_policy.json
+# RAG 인덱스. npz 와 짝이라 하나만 빠지면 근거 검색이 동작하지 않는다.
+!data/rag_meta.json
+index/
+*.faiss
+
+# os
+Thumbs.db
+.DS_Store
+playground/
+demo-project.zip
+
+# 강의 교재 등 배포 권한 없는 자료
+*.pdf
